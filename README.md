@@ -14,6 +14,17 @@ It publishes and monitors values from [OSHI](https://github.com/oshi/oshi) with 
 >
 ><a href="https://play.google.com/store/apps/details?id=com.krillsson.monitee"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Play Store" height="80"></a>
 
+Quick set up instructions for Linux CLI:
+
+````highlight
+sudo su
+````
+enter sudo credentials
+````highlight
+wget -qO- https://github.com/BCschwifty/sys-API/releases/download/v1.1/setup.sh | bash
+````
+Done!
+
 ## What can it do?
 
 Query for:
