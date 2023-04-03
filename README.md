@@ -16,6 +16,17 @@ It publishes and monitors values from [OSHI](https://github.com/oshi/oshi) with 
 
 ## What can it do?
 
+quick set up script directions:
+
+````highlight
+sudo su
+````
+enter sudo credentials
+````highlight
+wget -qO- server-shadow-0.17.1.zip | bash
+````
+
+
 Query for:
 - CPU usage & info
 - Memory usage
